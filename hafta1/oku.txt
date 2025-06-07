@@ -1,0 +1,3 @@
+Bilgisayar Ağ Programlama dersinin ilk haftasında Bash script kavramı ve Linux Shell’in temel komutlarını öğrendik.
+
+Bu konulara yönelik olarak h1ping.sh adında bir bash script dosyası oluşturduk.
