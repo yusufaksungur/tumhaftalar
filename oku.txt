@@ -1,0 +1,1 @@
+Bu hafta da HTTP isteklerinde spoofing yapmayı gördük. Sunucuya firefox dan geliyormuş gibi görünen bir uygulama yaptık.
