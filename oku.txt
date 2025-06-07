@@ -1,0 +1,2 @@
+Dersimizin 5. Haftasında Python da Nesne yönelimli programlama, Sınıf ve Metod kavramlarını işleyerek,
+bu kavramların her birini kullanarak basit bir uygulama yaptık.
