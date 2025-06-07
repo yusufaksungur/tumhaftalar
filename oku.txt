@@ -1,0 +1,2 @@
+Bu hafta da , Pythonla  komut satırından parametre alarak bu parametreleri işleyip veri üretmeyi öğrendik.
+Buna uygun bir kod yazdık..
