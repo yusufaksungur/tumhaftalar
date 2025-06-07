@@ -1,0 +1,5 @@
+commit 5a7fd898d64ae1086c0f2235bebd83b10001256b (HEAD -> main, origin/main)
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Jun 7 22:11:31 2025 +0300
+
+    hafta 10
