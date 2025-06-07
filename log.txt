@@ -1,0 +1,5 @@
+commit 5252ca5576020d84f59d0b7b90f7c60221164ce7 (HEAD -> main, origin/main, origin/HEAD)
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat May 10 15:52:16 2025 +0300
+
+    hafta12
