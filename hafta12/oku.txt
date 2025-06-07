@@ -1,0 +1,7 @@
+Bu hafta da, tcp ve udp kavramlarını öğrendik sonrasında, 
+
+Socket modülünü kullanarak TCP bağlantısını kurmayı ve temel istemci sunucu programının nasıl yazıldığı öğrendik.
+(tcp-client ve tcp-server)
+
+Yine socket modülünü kullanarak bu sefer UDP protokülüyle istemci sunucu bağlantısına kimlik kontrölü ekledik.
+(udp-client ve udp-server)
