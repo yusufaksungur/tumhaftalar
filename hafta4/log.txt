@@ -1,0 +1,5 @@
+commit b398e490bcceea0b75cf2717ce4fb7089059e97a (HEAD -> main, origin/main, origin/HEAD)
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Mar 15 13:40:04 2025 +0300
+
+    hafta 4

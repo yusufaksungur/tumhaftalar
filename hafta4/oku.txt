@@ -1,0 +1,2 @@
+Bu hafta, ARP Spoofing kavramını irdeledik. Python dili ve Scapy kütüphanesi kullanarak, 
+hedef makineler arasında ARP önbelleklerini zehirleyerek ağ trafiğini yönlendirme uygulamaları yaptık.
