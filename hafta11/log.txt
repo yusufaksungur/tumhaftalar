@@ -1,0 +1,5 @@
+commit 234f47d8787f42fd6da384fc168014235aa4dc19 (HEAD -> main, origin/main, origin/HEAD)
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Fri May 9 23:47:35 2025 +0300
+
+    hafta11

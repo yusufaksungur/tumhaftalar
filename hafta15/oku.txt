@@ -1,0 +1,1 @@
+Son haftamızda therading modülünü kullanarak aynı anda bir den çok therad çalıştırılmasını öğrendik.

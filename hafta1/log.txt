@@ -1,0 +1,23 @@
+commit ab9882b78e3c4eb418d018a981ccec3a0d3b93b0 (HEAD -> main, origin/main, origin/HEAD)
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Jun 7 21:50:02 2025 +0300
+
+    dosya icerik bilgisi eklendi
+
+commit 924a859312cd55998ec70775171b6113bce86f84
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Jun 7 21:46:25 2025 +0300
+
+    deneme
+
+commit 80161ed53ca6fddac0afbae99f4e6d77ca8e8df7
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Mar 1 13:14:35 2025 +0300
+
+    saldiriliyor mesajı ekledim
+
+commit d5e200085ac9ed59e9b3d31dd04c3351eb8ce94a
+Author: yusufaksungur <yusufaksungur34@gmail.com>
+Date:   Sat Mar 1 12:52:57 2025 +0300
+
+    hafta 1
